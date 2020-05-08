@@ -5,3 +5,5 @@ class Cerson:#定义类时首字母大写
             print("dfbolfg")
     lisi = Cerson()
     list()
+
+zdfnbvkzajfbvkzdfkb
