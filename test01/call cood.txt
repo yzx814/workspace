@@ -1,0 +1,7 @@
+
+class Cerson:#定义类时首字母大写
+
+    def __call__(self):
+            print("dfbolfg")
+    lisi = Cerson()
+    list()
